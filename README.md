@@ -10,8 +10,9 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
     Utilizeo um projeto antigo que eu tenho que vem do sklearn, e de inventei algumas imagens do copilot
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
+
+![_513c3135-2bbc-470d-9f8c-a6aaca3c6f95](https://github.com/RafaelHilario/lab-natty-or-not/assets/91325190/8d66f4d2-b878-4963-ba64-a184f4701458)
 
 
 
